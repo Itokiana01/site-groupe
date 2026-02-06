@@ -1,1 +1,46 @@
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="style.css"/>
+  <title>tennis</title>
+</head>
+<body>
+  <h1>Definition:</h1>
+  <p> Le tennis est une sport de raquette qui oppose soit deux joueurs
+    ,soit quatre joueurs qui forment deux equipes.</p>
+  <div class="top">
+  <img src="image/joueur.jpg" alt="joueur tennis">
+  </div>
+  <h2>Historique:</h2>
+<p>  Le tennis moderne trouve ses racine dans le jeu de paume medieval 
+  française au 12ème siècle ,où l'on frappait une balle à la main.
+  Transformé en lawn tennis (tennis en herbe)par les britaniques au
+  19ème siècle ,le sport s'est structuré avec le brevet de Walter
+  Clopton wingfield en 1874 .
+  L'"Ere Open" debute en 1968,professionnalisant le jeu et en unifiant
+  les tournois du grand chelem.</p>
+  <div class=middle>
+  <img src="image terrain.jpg" alt="terrain tennis">
+  </div>
+  <h3>Concepte:</h3>
+<p>le concept du sport de raquette qui oppose soit deux joueurs 
+ (on parle alors de jeu en simple) soit quatre joueurs qui forment deux 
+  équipes de deux (un double) ancien,connu sous le nom jeu en paume .
+Il s'agissait de renvoyer une balle en cuir par-dessus du fillet,
+d'abord à la main nue,puis avec un gant ou une raquette.</p>
+  <div class=bottom>
+  <img src:"image/tennis.jpg" alt="tennis" >
+</div>
+  <h4>Evolution</h4>
+  <p>*7-16ème siècle:Né en France,le jeu de paume est pratiqué dans le 
+    monastères et la noblesse,utulusant d'abord la paume,puis des gants
+    et enfin des raquettes.
+*1874:Le major Clopton Walter Wingfield dépose le brevet du"lawn-tennis" 
+en Angleterre,structurant les règles modernes.
+*1877:Prémier tournoi de Wimbledon organisé par "All England Croquet and 
+    Lawn Tennis Club."   </p>
+</body>
+</head>
+b
